@@ -1,1 +1,1 @@
-export XMLSEC_CONFIG="--prefix /app/.apt/usr"
+export XMLSEC_CONFIG="--prefix=/app/.apt/usr"
