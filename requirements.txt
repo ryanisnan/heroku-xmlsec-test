@@ -1,1 +1,2 @@
 -e git+https://github.com/ryanisnan/dm.xmlsec.binding-1.3.3#egg=dm.xmlsec.binding
+python-saml==2.2.3
